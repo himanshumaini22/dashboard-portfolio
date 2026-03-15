@@ -9,7 +9,7 @@ The primary goals of this dashboard are:
 This enables businesses to improve inventory planning, marketing strategy, and sales forecasting.
 
 ## Dashboard Preview
-![Sales Dashboard](Sales Dashboard (Screenshot).jpg)
+![Dashboard](Sales_Dashboard_(Screenshot).jpg)
 
 
 ## Key Metrics Displayed
