@@ -1,4 +1,5 @@
 **Business Objectives**
+
 The primary goals of this dashboard are:
 1. Track Year-to-Date (YTD) and Quarter-to-Date (QTD) sales performance.
 2. Monitor sales trends over months and weeks.
