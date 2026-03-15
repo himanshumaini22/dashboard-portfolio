@@ -1,4 +1,4 @@
-**Business Objectives**
+## Business Objectives
 
 The primary goals of this dashboard are:
 1. Track Year-to-Date (YTD) and Quarter-to-Date (QTD) sales performance.
@@ -8,11 +8,11 @@ The primary goals of this dashboard are:
 5. Track customer engagement via reviews.
 This enables businesses to improve inventory planning, marketing strategy, and sales forecasting.
 
-**Dashboard Preview**
+## Dashboard Preview
 ![Sales Dashboard](Sales Dashboard (Screenshot).jpg)
 
 
-**Key Metrics Displayed**
+## Key Metrics Displayed
 
 1️ **Performance KPIs**
 - YTD Sales: Total revenue generated in the current year
@@ -43,7 +43,7 @@ These KPIs provide a quick snapshot of overall business health.
 This comparison helps identify products that are both high selling and highly rated.
 
 
-**Dashboard Features**
+## Dashboard Features
 - Quarter based filtering (Q1–Q4)
 - Product category filtering
 - Interactive visualizations
@@ -52,7 +52,7 @@ This comparison helps identify products that are both high selling and highly ra
 - Product ranking visuals
 These features allow users to drill down into data quickly and intuitively.
 
-**Tools & Technologies**
+## Tools & Technologies
 The dashboard was built using the following tools:
 - Power BI / Tableau / Excel (replace with the tool you used)
 - Data visualization techniques
