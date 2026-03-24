@@ -11,7 +11,7 @@ The dashboard analyzes data from 1,470 employees to identify trends in attrition
 6. Average Tenure: 7.01 years
 
 # Dashboard Preview
-![HR_Dashboard](HR-Analytics_Dashboard.jpg)
+![HR_Dashboard](HR_dashboard.jpg)
 
 # Key Insights
 1. The "Early Years" Risk
