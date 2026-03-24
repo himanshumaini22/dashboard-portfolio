@@ -14,16 +14,18 @@ The dashboard analyzes data from 1,470 employees to identify trends in attrition
 ![HR_Dashboard](HR_dashboard.jpg)
 
 # Key Insights
-1. The "Early Years" Risk
+
+**1. The "Early Years" Risk**
+
 The Attrition by Years at Company chart shows a massive spike in departures within the first two years of employment. This suggests a potential gap in the onboarding process or a "reality shock" where the job role doesn't align with initial expectations.
 
-2. Salary vs. Retention
+3. Salary vs. Retention
 There is a clear inverse relationship between salary and attrition. Employees earning "Upto 5K" represent the largest group of departures (163 out of 237). Once employees hit the $10K+ bracket, attrition drops significantly.
 
-3. Departmental Pressure
+4. Departmental Pressure
 The Research & Development department has the highest volume of attrition (133 employees). While it is likely the largest department, the sheer volume suggests that technical roles may be experiencing higher burnout or are being aggressively headhunted by competitors.
 
-4. Education & Role Impact
+5. Education & Role Impact
 Employees with a background in Life Sciences and Medical fields make up the bulk of the attrition. Furthermore, Laboratory Technicians have the highest attrition count (62) compared to any other job role.
 
 💡 Recommendations
